@@ -34,7 +34,7 @@
     "del": "^3.0.0",
     "express": "^4.16.2",
     "html-entities": "^1.2.0",
-    "http-proxy-middleware": "git://github.com/Rody-Kirwan/http-proxy-middleware.git#feature/pass-options-to-micromatch",
+    "http-proxy-middleware": "https://github.com/Rody-Kirwan/http-proxy-middleware/archive/pass-options-to-micromatch.tar.gz",
     "import-local": "^2.0.0",
     "internal-ip": "^3.0.1",
     "ip": "^1.1.5",
